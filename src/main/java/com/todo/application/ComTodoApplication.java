@@ -7,7 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ComTodoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ComTodoApplication.class, args);vfff
+		SpringApplication.run(ComTodoApplication.class, args);
+		//System.out.println("test");
 	}
 
 }
